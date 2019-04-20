@@ -1,0 +1,15 @@
+body {
+	padding: 10px;
+}
+
+* {
+	font-family: Gloria Hallelujah;
+}
+
+.signin {
+	color: white;
+}
+
+#content {
+	margin-top: 50px;
+}
